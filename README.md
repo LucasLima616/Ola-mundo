@@ -1,6 +1,6 @@
 # Olá, mundo!
  Primeiro Repositorio Versionado
  
- Testando todas as ferramentas
+ Testando todas as *ferramentas*
 
-Adicionei essa linha pelo site
+**Adicionei essa linha pelo site**
